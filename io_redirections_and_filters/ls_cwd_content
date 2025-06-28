@@ -1,11 +1,51 @@
-*'"Best School"'\*$\?*****:)
-0-hello_world
-1-confused_smiley
-3-two_files
-4-last_lines
-5-first_lines
-6-third_line
-7-file
-8-cwd_state
-iacta
-ls_cwd_content
+total 832
+-rw-r--r-- 1 root root     12 Jun 26 22:55 *'"Best School"'\*$\?*****:)
+-rw-r--r-- 1 root root     12 Jun 29 02:25 *\'"Best School"\'*$?\*\*\*\*\*:)
+drwxr-xr-x 1 root root   4096 Jun 29 02:29 .
+drwxr-xr-x 1 root root   4096 Jun 26 22:20 ..
+-rw-r--r-- 1 root root      0 Jun 26 23:56 .hidden2.gif
+drwxr-xr-x 1 root root   4096 Jun 26 23:50 .hidden_empty_dir
+-rw-r--r-- 1 root root      0 Jun 26 23:50 .hidden_empty_file
+-rwxr-xr-x 1 root root     32 Jun 27 20:38 0-hello_world
+-rwxr-xr-x 1 root root     31 Jun 27 20:43 1-confused_smiley
+-rwxr-xr-x 1 root root     60 Jun 26 23:03 10-no_more_js
+-rwxr-xr-x 1 root root     35 Jun 26 23:08 11-directories
+-rwxr-xr-x 1 root root     86 Jun 26 23:09 12-newest_files
+-rwxr-xr-x 1 root root     27 Jun 26 23:21 13-unique
+-rwxr-xr-x 1 root root     36 Jun 26 23:26 14-findthatword
+-rwxr-xr-x 1 root root     38 Jun 26 23:28 15-countthatword
+-rwxr-xr-x 1 root root     41 Jun 26 23:32 16-whatsnext
+-rwxr-xr-x 1 root root     38 Jun 26 23:33 17-hidethisword
+-rwxr-xr-x 1 root root     50 Jun 26 23:34 18-letteronly
+-rwxr-xr-x 1 root root     25 Jun 26 23:36 19-AZ
+-rwxr-xr-x 1 root root     28 Jun 27 20:46 2-hellofile
+-rwxr-xr-x 1 root root     23 Jun 26 23:38 20-hiago
+-rwxr-xr-x 1 root root     16 Jun 26 23:40 21-reverse
+-rwxr-xr-x 1 root root     45 Jun 26 23:42 22-users_and_homes
+-rwxr-xr-x 1 root root     41 Jun 26 23:46 23-empty_casks
+-rwxr-xr-x 1 root root     95 Jun 26 23:55 24-gifs
+-rwxr-xr-x 1 root root     39 Jun 27 00:11 25-acrostic
+-rwxr-xr-x 1 root root     91 Jun 27 00:14 26-the_biggest_fan
+-rwxr-xr-x 1 root root     39 Jun 26 22:37 3-two_files
+-rwxr-xr-x 1 root root     39 Jun 28 02:47 3-twofiles
+-rwxr-xr-x 1 root root     29 Jun 26 22:39 4-last_lines
+-rwxr-xr-x 1 root root     29 Jun 28 02:50 4-lastlines
+-rwxr-xr-x 1 root root     29 Jun 26 22:41 5-first_lines
+-rwxr-xr-x 1 root root     29 Jun 28 02:52 5-firstlines
+-rwxr-xr-x 1 root root     40 Jun 28 02:55 6-third_line
+-rwxr-xr-x 1 root root     74 Jun 29 02:24 7-file
+-rwxr-xr-x 1 root root     36 Jun 29 02:29 8-cwd_state
+-rwxr-xr-x 1 root root     37 Jun 26 23:00 9-duplicate_last_line
+-rw-r--r-- 1 root root    384 Jun 27 00:11 An Acrostic
+-rw-r--r-- 1 root root      0 Jun 27 00:05 ]
+-rw-r--r-- 1 root root      5 Jun 26 23:10 a.txt
+-rw-r--r-- 1 root root      0 Jun 26 23:10 b.txt
+-rw-r--r-- 1 root root      0 Jun 26 23:10 c.txt
+drwxr-xr-x 1 root root   4096 Jun 26 23:50 empty_dir
+-rw-r--r-- 1 root root      0 Jun 26 23:50 empty_file.txt
+-rw-r--r-- 1 root root     58 Jun 26 23:01 iacta
+-rw-r--r-- 1 root root    168 Jun 26 23:24 list
+-rw-r--r-- 1 root root      0 Jun 29 02:30 ls_cwd_content
+-rw-r--r-- 1 root root 782913 Mar  9  2022 nasa_19950801.tsv
+-rw-r--r-- 1 root root      0 Jun 26 23:04 test.sh
+-rw-r--r-- 1 root root      0 Jun 26 23:56 test1.gif
